@@ -1,4 +1,4 @@
-# Mini projet : impact du bruit sur un classifieur d'images
+# Image Classification — Noise Robustness
 
 Étude de l'effet du bruit (gaussien, sel & poivre, speckle) sur la classification d'images
 Fashion-MNIST (5 classes × 100 images), avec des descripteurs HOG et deux classifieurs (SVM, k-NN).
