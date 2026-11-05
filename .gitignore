@@ -1,0 +1,4 @@
+# Fichiers bruts téléchargés (recréés automatiquement par le notebook)
+data/*.gz
+.ipynb_checkpoints/
+__pycache__/
